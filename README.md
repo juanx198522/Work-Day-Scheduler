@@ -30,4 +30,4 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ## Link to deployed application 
-[https://juanx198522.github.io/04-challenge/](https://juanx198522.github.io/04-challenge/)
+[https://juanx198522.github.io/Third-Party-APIs-Work-Day-Scheduler/](https://juanx198522.github.io/Third-Party-APIs-Work-Day-Scheduler/)
